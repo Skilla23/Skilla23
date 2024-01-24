@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skilla23
-- 👀 I’m interested Programming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me keanu.tisch@gmx.at
